@@ -47,12 +47,3 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** e atuo como **Desenv
 
 ---
 
-
-
-<!--
-DICAS RÁPIDAS (remova este bloco antes de publicar)
-- Mantenha o "Sobre mim" curto: 3–5 linhas no topo.
-- Destaque 1 projeto com link e 2–3 bullets técnicos quando quiser mostrar resultados.
-- Atualize o README conforme novos projetos forem concluídos.
-- Use badges e imagens com moderação para manter o carregamento rápido.
--->
